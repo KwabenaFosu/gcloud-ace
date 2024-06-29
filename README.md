@@ -1,2 +1,6 @@
-# gcloud-ace-lab
-Practice labs and concepts for google cloud engineer path
+# Areas of Focus
+* Identity & Access Management
+* Networking and Storage
+* GKE
+* Logging and Monitoring
+* Infrastructure Automation
