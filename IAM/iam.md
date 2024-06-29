@@ -1,2 +1,2 @@
-*** glcoud shell
+* glcoud shell
 
